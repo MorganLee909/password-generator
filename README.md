@@ -21,9 +21,11 @@ Javascript Code for actual working function of the program that is created.
 
 Screenshot of actual program.
 
+Program Diployed Link: https://ajinthapa2000.github.io/password-generator/
+
 ##screenshot
 
-![](image/screenshot.jpg)
+![](image/screenshot.JPG)
 
 
 
