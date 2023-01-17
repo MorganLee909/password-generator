@@ -2,6 +2,7 @@
 Create your unique password.
 
 ##Discription
+
 Password Generator is a system that generate unique password for your strong security purpose.
 It can generate unique password based on your preference either combination of letter, number, symbol, uppercase, lowercase character.
 
