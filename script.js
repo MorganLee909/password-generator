@@ -1,5 +1,5 @@
 //dom element
-const generateEl=document.getElementById('generate');
+const generateEl=document.getElementById('generate'); //dom variable are identical to youtube 
 const lengthEl=document.getElementById('myRange');
 const upperEl=document.getElementById('upperCase')
 const lowerEl=document.getElementById('lowerCase');
@@ -23,7 +23,7 @@ generateEl.addEventListener('click',() =>{
     const hasnumber=numberEl.checked;
     
 
-    resultEl.innerText=generatePassword(hasLower,hasUpper,hasnumber,hassymbol,length);
+    resultEl.innerText=generatePassword(hasLower,hasUpper,hasnumber,hassymbol,length); //used this variable like in youtube
 });
 
 //generate password function
