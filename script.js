@@ -58,7 +58,7 @@ function generatePassword(lower,upper,number,symbols,length){
 }
 // define function to generate random number, symbol, uppercase,lower case
 function randomLowerCase(){
-    return String.fromCharCode(Math.floor(Math.random()*26)+97);
+    return String.fromCharCode(Math.floor(Math.random()*26)+97);  //following ths concept to get random like in youtube without declearing uppercase and lower case manually because i also know this we can generated this using ASCII code  
 }
 
 function randomUpperCase(){
